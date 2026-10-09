@@ -1,0 +1,6 @@
+{
+  "name": "YUAI | Antique Dark Fantasy Portfolio",
+  "description": "Portfolio of illustrator and concept artist Yuai, featuring antique dark academia, whimsical fairy tale illustrations, and storybook artworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
